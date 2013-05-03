@@ -1,0 +1,3 @@
+[submodule ".themes/ji"]
+	path = .themes/ji
+	url = git@github.com:fsproru/ji-octopress-theme.git
