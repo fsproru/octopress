@@ -5,9 +5,15 @@ date: 2013-05-04 23:00
 comments: true
 categories: 
 ---
-Team Zest gets their second win in Los Angeles Table Tennis Federation Tournament against Team Gilbert.
+Team Zest gets their second win in Los Angeles Table Tennis Federation Tournament [against Team Gilbert.](http://www.lattf.org/2013/05/05/team-zest-vs-team-gilbert-on-05042013/)
 
-Lei and Brad brought 2 wins to the team in first two single games. After that Marick and Ian win a doubles match after which it was obvious that Team Zest is a winner! 4th game was a lost and Marick wins the last singles game bringing the team an extra point.
+Lei and Brad brought 2 wins to the team in first two single
+games. Next, Marick and Ian win a doubles match after which it
+was obvious that Team Zest is a winner! 
+
+{% img /images/zing_doubles.jpg %}
+
+4th game was a lost and Marick wins the last singles game bringing the team an extra point.
 
 Big thanks to Jayanti and Xintong for coming to a match and supporting the team and making the awesome photos.
 
