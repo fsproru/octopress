@@ -1,0 +1,19 @@
+---
+layout: post
+title: "1 2 Automate!"
+date: 2013-05-07 10:32
+comments: true
+categories: 
+---
+
+Manual process is a set of manual steps that solves a particular problem. Automation is making a tool that does the job for you. What is better? It depends.
+
+Manual process is quick and cheap. You don't have to invest a lot of effort into it and you get the job done relatively fast. Although, it's fragile, since as a human, you make mistakes as you do the job second or third time (and we're tend to do mistakes in different places). And the biggest downside is that manual process has the same cost every time you execute it (if you're manually freeing up the space on the server and it's 10 commands, it will take you 10 commands next time you do it)
+
+Automation offers more reliable solution that costs less over time. Writing a script to clean up your space might take a while but it's one command every subsequent time. On the other side almost every automation solution is more expensive and it needs maintenance. 
+
+What is the problem in a first place? Repetitive work isn't fun, it's more of a pain. When you have a pain, you're trying to get rid of it. There are several ways to do it:
+You can apply manual process to get the pain out of your way. But it doesn't really solves a problem completely. In other words, when you do your next task, you'll need to manually do the previous task and do the new task. Overtime it accumulates and you end up doing a lot of repetitive work which is annoying.
+Or you can automate the task which kills your pain way more efficient but you might not know exactly how to do it in a first place.
+
+Make it work, make it right, make it fast. If we simplify the software development process to these three simple phases, than it's clear that manual process in a right tool to make it work. You don't need a robust solution just yet because you're exploring, learning and trying to "make it work" somehow. Automation comes in handy for making it right and fast. Right tool for the job.
